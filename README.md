@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=delhombre&label=PROFILE+VIEWS)
 
-&nbsp;
+<br />
 
 ### Connect with me on:
 
@@ -17,6 +17,8 @@
 [<img align="left" alt="twitter" width="50" height="50" src="./assets/twitter.svg" />](https://twitter.com/BrruunnooD)
 
 </div>
+
+<br />
 
 ## My stats 🏆
 
@@ -45,6 +47,8 @@
 
   <img align="left" alt="sass" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
+
+<br />
 
 ## Playlist I listen to when I'm coding 🎵
 
