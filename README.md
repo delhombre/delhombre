@@ -2,36 +2,13 @@
 
 ### A fullstack web developer with a focus on [Reactjs](https://reactjs.org/) library and [Symfony](https://symfony.com/) framework.
 
-&nbsp;
-
 ![](https://komarev.com/ghpvc/?username=delhombre&label=PROFILE+VIEWS)
 
 &nbsp;
 
 ### Connect with me on:
 
-<style>
-.flex {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 1rem;
-}
-
-.mb-1 {
-  margin-bottom: 1rem;
-}
-
-.mb-2 {
-  margin-bottom: 2rem;
-}
-
-.mb-3 {
-  margin-bottom: 3rem;
-}
-</style>
-
-<div id="identifier" class="flex">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem;">
 
 [<img align="left" alt="instagram" width="50" height="50" src="./assets/instagram.svg" />](https://www.instagram.com/brunodogbase)
 
@@ -51,7 +28,7 @@
 
 ## My Stacks 📚
 
-<div id="identifier" class="flex mb-2">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; margin-bottom: 2rem;">
   <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
   <img align="left" alt="symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
