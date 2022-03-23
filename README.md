@@ -1,21 +1,78 @@
-# Hi there, I'm Bruno 👋
+# Hi there, I'm Bruno Dogbase 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=delhombre&show_icons=true&theme=radical" />
+### A fullstack web developer with a focus on [Reactjs](https://reactjs.org/) library and [Symfony](https://symfony.com/) framework.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delhombre&layout=compact" />
+&nbsp;
 
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+![](https://komarev.com/ghpvc/?username=delhombre&label=PROFILE+VIEWS)
 
-<img align="left" alt="symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" />
+&nbsp;
 
-<img align="left" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+### Connect with me on:
 
-<img align="left" alt="material-ui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+<style>
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
 
-<img align="left" alt="reactjs" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+.mb-1 {
+  margin-bottom: 1rem;
+}
 
-<img align="left" alt="reactjs" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+.mb-2 {
+  margin-bottom: 2rem;
+}
 
-<img align="left" alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+.mb-3 {
+  margin-bottom: 3rem;
+}
+</style>
 
-<img align="left" alt="sass" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+<div id="identifier" class="flex">
+
+[<img align="left" alt="instagram" width="50" height="50" src="./assets/instagram.svg" />](https://www.instagram.com/brunodogbase)
+
+[<img align="left" alt="linkedIn" width="50" height="50" src="./assets/linkedin.svg" />](https://www.linkedin.com/in/bruno-dogbase/)
+
+[<img align="left" alt="twitter" width="50" height="50" src="./assets/twitter.svg" />](https://twitter.com/BrruunnooD)
+
+</div>
+
+## My stats 🏆
+
+![Bruno Dogbase's GitHub stats](https://github-readme-stats.vercel.app/api?username=delhombre&show_icons=true&theme=radical)
+
+## Languages I used most often 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delhombre&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Stacks 📚
+
+<div id="identifier" class="flex mb-2">
+  <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+  <img align="left" alt="symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
+
+  <img align="left" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+  <img align="left" alt="material-ui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+
+  <img align="left" alt="reactjs" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+  <img align="left" alt="reactjs" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+
+  <img align="left" alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+
+  <img align="left" alt="sass" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
+</div>
+
+## Playlist I listen to when I'm coding 🎵
+
+![Bruno Dogbase's spotify recently playlist played](https://spotify-recently-played-readme.vercel.app/api?user=f5iuzerykb6eeww2k1ncbhszl)
+
+## Trophies 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=delhombre&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
