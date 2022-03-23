@@ -4,11 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=delhombre&label=PROFILE+VIEWS)
 
-<br />
-
 ### Connect with me on:
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem;">
+<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem;">
 
 [<img align="left" alt="instagram" width="50" height="50" src="./assets/instagram.svg" />](https://www.instagram.com/brunodogbase)
 
@@ -16,9 +14,7 @@
 
 [<img align="left" alt="twitter" width="50" height="50" src="./assets/twitter.svg" />](https://twitter.com/BrruunnooD)
 
-</div>
-
-<br />
+</p>
 
 ## My stats 🏆
 
@@ -48,7 +44,7 @@
   <img align="left" alt="sass" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 </div>
 
-<br />
+&nbsp;
 
 ## Playlist I listen to when I'm coding 🎵
 
