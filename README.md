@@ -1,55 +1,49 @@
-# Hi there, I'm Bruno Dogbase 👋
+# Bruno Dogbase - @delhombre
 
-### A fullstack web developer with a focus on [Reactjs](https://reactjs.org/) library and [Symfony](https://symfony.com/) framework.
+![alt text](https://media.licdn.com/dms/image/D5603AQEspdUVQsHKCA/profile-displayphoto-shrink_200_200/0/1666727972775?e=1677715200&v=beta&t=OIZgw_e0na2RPJXs_jmlQRN25z_KYM5lks4il_Jwhzc)
+
+[Bruno Dogbase](https://curriculum-vitae-brunodogbase.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
+
+Full stack web developer passionate about software craftsmanship and code quality. I am proficient in a range of technologies, including front-end programming languages (HTML, CSS, JavaScript) and back-end language (PHP). I am also experienced in designing and managing both relational and non-relational databases. As a developer, I am problem-solving oriented and enjoy finding creative solutions to technical challenges. I am also a strong communicator and team player, and I enjoy working with other developers, designers, and project managers to achieve application goals.
 
 ![](https://komarev.com/ghpvc/?username=delhombre&label=PROFILE+VIEWS)
 
-### Connect with me on:
+## Professional Experience
 
-<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem;">
+**Intelis** (Internship)  
+Bamako - Mali  
+3 Months
 
-[<img align="left" alt="instagram" width="50" height="50" src="./assets/instagram.svg" />](https://www.instagram.com/brunodogbase)
+**Intelis** (Full Stack Web Developer)  
+Bamako - Mali  
+14 Months
 
-[<img align="left" alt="linkedIn" width="50" height="50" src="./assets/linkedin.svg" />](https://www.linkedin.com/in/bruno-dogbase/)
+**Skills:**
 
-[<img align="left" alt="twitter" width="50" height="50" src="./assets/twitter.svg" />](https://twitter.com/BrruunnooD)
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- PostgreSQL
+- MongoDB
 
-</p>
+**Preferred Technologies:**
 
-## My stats 🏆
+- React
+- Next.js
+- Symfony
+- API Platform
+- Docker
+- Redis
+- Typesense
+
+**Projects:**
+
+- [JDE - Repo](https://github.com/intelis-uemoa/jde) | [Website](https://www.jdemali.com/)
+- [Obscury - Music Repo](https://github.com/delhombre/obscury)
+- [Awishka Music - Repo](https://github.com/delhombre/awishka-music-symfony)
+- [Photographer Portfolio - Repo](https://github.com/delhombre/aly-portfolio) | [Website](https://aly-traore.vercel.app/)
+- [Askodev - Repo](https://github.com/delhombre/askodev) | [Website](https://askodev.vercel.app/)
 
 ![Bruno Dogbase's GitHub stats](https://github-readme-stats.vercel.app/api?username=delhombre&show_icons=true&theme=radical)
-
-## Languages I used most often 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delhombre&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Stacks 📚
-
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; margin-bottom: 2rem;">
-  <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-
-  <img align="left" alt="symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
-
-  <img align="left" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-  <img align="left" alt="material-ui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
-
-  <img align="left" alt="reactjs" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-  <img align="left" alt="reactjs" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-
-  <img align="left" alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-
-  <img align="left" alt="sass" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-</div>
-
-&nbsp;
-
-## Playlist I listen to when I'm coding 🎵
-
-![Bruno Dogbase's spotify recently playlist played](https://spotify-recently-played-readme.vercel.app/api?user=f5iuzerykb6eeww2k1ncbhszl)
-
-## Trophies 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=delhombre&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
