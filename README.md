@@ -14,9 +14,18 @@ Full stack web developer passionate about software craftsmanship and code qualit
 Bamako - Mali  
 3 Months
 
+- Analyzed and proposed improvements for an auction website from the given spec
+- Developed a prototype for features
+
 **Intelis** (Full Stack Web Developer)  
 Bamako - Mali  
 14 Months
+
+- Led the development of the auction website from scratch using symfony
+- Designed the app into hexagonal architecture
+- Used Custom Elements and React Js for reactive components
+- Typesense for better auto-completion search
+- Redis for optimized caching system
 
 **Skills:**
 
