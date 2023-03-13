@@ -1,6 +1,6 @@
 # Bruno Dogbase - @delhombre
 
-![alt text](https://media.licdn.com/dms/image/D5603AQEspdUVQsHKCA/profile-displayphoto-shrink_200_200/0/1666727972775?e=1677715200&v=beta&t=OIZgw_e0na2RPJXs_jmlQRN25z_KYM5lks4il_Jwhzc)
+![Bruno Dogbase photo](https://media.licdn.com/dms/image/D5603AQEspdUVQsHKCA/profile-displayphoto-shrink_400_400/0/1666727972775?e=1684368000&v=beta&t=oZA-wWrO-qleBy4VpVTQ8bzgMJ0CvvVgh97xsjxd5MU)
 
 [Bruno Dogbase](https://curriculum-vitae-brunodogbase.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
 
