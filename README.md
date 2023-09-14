@@ -54,5 +54,3 @@ Bamako - Mali
 - [Awishka Music - Repo](https://github.com/delhombre/awishka-music-symfony)
 - [Photographer Portfolio - Repo](https://github.com/delhombre/aly-portfolio) | [Website](https://aly-traore.vercel.app/)
 - [Askodev - Repo](https://github.com/delhombre/askodev) | [Website](https://askodev.vercel.app/)
-
-![Bruno Dogbase's GitHub stats](https://github-readme-stats.vercel.app/api?username=delhombre&show_icons=true&theme=radical)
