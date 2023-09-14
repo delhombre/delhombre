@@ -1,6 +1,6 @@
 # Bruno Dogbase - @delhombre
 
-![Bruno Dogbase photo](https://media.licdn.com/dms/image/D5603AQEspdUVQsHKCA/profile-displayphoto-shrink_400_400/0/1666727972775?e=1684368000&v=beta&t=oZA-wWrO-qleBy4VpVTQ8bzgMJ0CvvVgh97xsjxd5MU)
+![Bruno Dogbase photo](/img/1666727972775.jpeg)
 
 [Bruno Dogbase](https://curriculum-vitae-brunodogbase.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
 
