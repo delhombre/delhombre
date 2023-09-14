@@ -1,6 +1,6 @@
 # Bruno Dogbase - @delhombre
 
-![Bruno Dogbase photo](/img/1666727972775.jpeg)
+<img src="./img/1666727972775.jpeg" height="250" alt="Bruno Dogbase">
 
 [Bruno Dogbase](https://curriculum-vitae-brunodogbase.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
 
