@@ -50,7 +50,10 @@ Bamako - Mali
 **Projects:**
 
 - [JDE - Repo](https://github.com/intelis-uemoa/jde) | [Website](https://www.jdemali.com/)
+- [AI Gift Ideas - Repo](https://github.com/delhombre/gift-idea) | [Website](https://ai-gift-idea.vercel.app/)
+- [FizzBuzz TDD Kata](https://github.com/delhombre/fizzbuzz)
 - [Obscury - Music Repo](https://github.com/delhombre/obscury)
 - [Awishka Music - Repo](https://github.com/delhombre/awishka-music-symfony)
 - [Photographer Portfolio - Repo](https://github.com/delhombre/aly-portfolio) | [Website](https://aly-traore.vercel.app/)
 - [Askodev - Repo](https://github.com/delhombre/askodev) | [Website](https://askodev.vercel.app/)
+- [React Obscury - Repo](https://github.com/delhombre/react-obscury) | [Website](https://react-obscury.vercel.app/)
