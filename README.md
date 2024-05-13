@@ -53,9 +53,9 @@ Bamako - Mali
 - Swarm
 - Ansible
 - CI/CD
-- Jenkins
-- Kubernetes
-- Terraform
+- Jenkins (In progress)
+- Kubernetes (In progress)
+- Terraform (In progress)
 
 **Operating Systems:**
 
@@ -76,6 +76,7 @@ Bamako - Mali
 - [PHP Binary Converter - Repo](https://github.com/delhombre/binary-converter) | [Package](https://packagist.org/packages/delhombre/binary-converter)
 - [AI Gift Ideas - Repo](https://github.com/delhombre/gift-idea) | [Website](https://ai-gift-idea.vercel.app/)
 - [Obscury - Music Repo](https://github.com/delhombre/obscury) | [Website](https://obscury.com/)
+- [Keeezz - Repo](https://github.com/Keeezz/domain/)
 - [Photographer Portfolio - Repo](https://github.com/delhombre/aly-portfolio) | [Website](https://aly-traore.vercel.app/)
 - [Askodev - Repo](https://github.com/delhombre/askodev) | [Website](https://askodev.vercel.app/)
 - [React Obscury - Repo](https://github.com/delhombre/react-obscury) | [Website](https://react-obscury.vercel.app/)
