@@ -33,10 +33,8 @@ Bamako - Mali
 - CSS
 - JavaScript
 - PHP
-- C#
-- MariaDB
-- MySQL
-- PostgreSQL
+- C# / ASP.NET / ADO.NET
+- MariaDB / MySQL / PostgreSQL
 
 **Preferred Technologies:**
 
@@ -53,9 +51,9 @@ Bamako - Mali
 - Swarm
 - Ansible
 - CI/CD
-- Jenkins (In progress)
-- Kubernetes (In progress)
-- Terraform (In progress)
+- Jenkins
+- Kubernetes
+- OpenStack (In progress)
 
 **Operating Systems:**
 
