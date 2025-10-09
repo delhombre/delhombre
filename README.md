@@ -1,74 +1,106 @@
-# Bruno Dogbase - @delhombre
+# 👋 Hi, I'm Bruno Dogbase — [@delhombre](https://github.com/delhombre)
 
-# [Bruno Dogbase](https://curriculum-vitae-brunodogbase.vercel.app/)
+[🌍 Portfolio](https://curriculum-vitae-brunodogbase.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
 
-[LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
+---
 
-Full stack web developer passionate about software craftsmanship and code quality. Proficient in front-end (HTML, CSS, JavaScript, TypeScript) and back-end (PHP, C#) technologies. Experienced in designing and managing relational databases (PostgreSQL, MariaDB, MySQL). Problem-solving oriented, enjoy working with teams, and always eager to learn new technologies. Acquired DevOps skills through a course at [Technifutur](https://technifutur.be/formations/?id=INFO-FDE-032&dom=Num%C3%A9rique&public=).
+## 💡 About Me
+
+Full-Stack Developer & DevOps Engineer driven by **software craftsmanship**, **clean architecture**, and **continuous improvement**.  
+I build robust, maintainable, and scalable web systems — from UI to infrastructure — with a focus on **code quality**, **testing**, and **developer experience**.
+
+Passionate about domain-driven design (DDD), TDD, and automation, I strive to create meaningful digital products that balance **elegance, performance, and reliability**.
+
+🎓 Trained at [Technifutur](https://technifutur.be/formations/?id=INFO-FDE-032&dom=Num%C3%A9rique&public=) in DevOps engineering.  
+💼 Currently working on full-stack and infrastructure projects involving **Docker**, **Traefik**, and **Kubernetes**.
 
 ![](https://komarev.com/ghpvc/?username=delhombre&label=PROFILE+VIEWS)
 
-## Professional Experience
+---
 
-### Intelis (Full Stack Web Developer)
+## 🧠 Core Skills
 
-**Location:** Bamako, Mali  
-**Duration:** 14 Months
+- **Languages:** TypeScript, JavaScript, PHP, C#, HTML, CSS  
+- **Frameworks & Platforms:** React, Next.js, Symfony, ASP.NET Core, API Platform  
+- **Databases:** PostgreSQL, MariaDB, MySQL  
+- **Caching & Search:** Redis, Typesense  
+- **DevOps & Cloud:** Docker, Docker Swarm, Ansible, GitHub Actions, GitLab CI, Jenkins  
+- **Infrastructure:** Traefik, Nginx, Kubernetes (in progress), OpenStack  
+- **Methodologies:** TDD, BDD, Hexagonal Architecture, Clean Architecture, CQRS  
+- **OS Environments:** macOS, Linux (Ubuntu/Debian/Rocky), Windows  
 
-- Led the development of the auction website from scratch using Symfony
-- Designed the app into hexagonal architecture
-- Used Custom Elements and React.js for reactive components
-- Implemented Typesense for better auto-completion search
-- Utilized Redis for optimized caching system
+---
 
-### Intelis (Internship)
+## 🧩 Professional Experience
 
-**Location:** Bamako, Mali  
-**Duration:** 3 Months
+### 🧭 **Dimagin** — Full-Stack Developer & DevOps Engineer  
+📍 *Liège, Belgium* 🗓️ *Jan 2025 – Oct 2025 (current)*
 
-- Analyzed and proposed improvements for an auction website from the given spec
-- Developed a prototype for features
+- Engineered and maintained **CI/CD pipelines** with **GitHub Actions** and **Docker Compose** for front-end and back-end services.  
+- Automated **VPS provisioning and deployment** using **Ansible**, including Nginx, Traefik reverse proxy, and SSL configuration.  
+- Designed **multi-environment Docker workflows** for scalable deployment (dev/stage/prod).  
+- Contributed to a **progressive migration from WordPress to a headless CMS (Directus)**.  
+- Developed new full-stack features for client platforms using **Next.js**, **TypeScript**, and **Supabase**.  
+- Participated in architecture discussions around **microservices**, **monitoring**, and **high availability** strategies.
 
-## Skills
+### ⚙️ **Dimagin** — DevOps Intern  
+📍 *Liège, Belgium* 🗓️ *Oct 2024 – Dec 2024*
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, PHP, C#
-- **Databases:** MariaDB, MySQL, PostgreSQL
+- Containerized multiple legacy applications with **Docker** for consistent deployments.  
+- Configured **reverse proxies (Nginx/Traefik)** and optimized routing between services.  
+- Set up **automated deployment pipelines** from GitHub to production VPS servers.  
+- Drafted internal **technical documentation** and **deployment playbooks** for reproducibility.  
+- Assisted in implementing **backup strategies** and **monitoring tools** for client infrastructure.
 
-## Preferred Technologies
+### 💻 **Intelis** — Full Stack Web Developer  
+📍 *Bamako, Mali* 🗓️ *14 months*
 
-- .NET Core, ASP.NET Core, Entity Framework Core, ADO.NET
-- React, Next.js
-- Symfony, API Platform
-- Redis, Typesense
+- Led the **end-to-end development** of an auction web platform using Symfony.  
+- Adopted a **hexagonal architecture** for scalability and maintainability.  
+- Integrated **Typesense** for real-time search and **Redis** for caching optimization.  
+- Built interactive UI components with **Custom Elements** and **React**.  
+- Collaborated with cross-functional teams to deliver production-ready releases.
 
-## DevOps Tools
+### 🚀 **Intelis** — Software Engineering Intern  
+📍 *Bamako, Mali* 🗓️ *3 months*
 
-- Docker, Swarm, Ansible
-- CI/CD (GitLab, GitHub Actions), Jenkins
-- Kubernetes, OpenStack (In progress)
+- Analyzed existing auction system and proposed technical optimizations.  
+- Built prototypes and improved user experience through iterative testing.
 
-## Operating Systems
+---
 
-- MacOS
-- Linux (Ubuntu, Debian, RedHat/Rocky, Mint)
-- Windows
+## ⚙️ Selected Projects
 
-## Languages
+| Project | Description | Links |
+|----------|--------------|--------|
+| **JDE (Stocksugu)** | Auction & stock platform for regional market | [Repo](https://github.com/intelis-uemoa/jde) • [Website](https://www.stocksugu.com/) |
+| **AI Gift Ideas** | AI-powered gift recommender built with Next.js + OpenAI | [Repo](https://github.com/delhombre/gift-idea) • [Website](https://ai-gift-idea.vercel.app/) |
+| **Obscury** | Music discovery app — React + TypeScript frontend | [Repo](https://github.com/delhombre/obscury) • [Website](https://obscury.com/) |
+| **PHP Binary Converter** | Composer package for binary ↔ decimal conversion | [Repo](https://github.com/delhombre/binary-converter) • [Packagist](https://packagist.org/packages/delhombre/binary-converter) |
+| **Keeezz** | SaaS experimentation platform | [Repo](https://github.com/Keeezz/domain/) |
+| **Askodev** | Developer community Q&A platform | [Repo](https://github.com/delhombre/askodev) • [Website](https://askodev.vercel.app/) |
+| **FizzBuzz Kata** | TDD exercise showcasing unit testing practices | [Repo](https://github.com/delhombre/fizzbuzz) |
 
-- French (Professional)
-- English (Technical)
-- Bambara (Native)
-- Ewe (Native)
+---
 
-## Selected Projects
+## 🧭 Current Focus
 
-- [JDE(Stocksugu) - Repo](https://github.com/intelis-uemoa/jde) | [Website](https://www.stocksugu.com/)
-- [AI Gift Ideas - Repo](https://github.com/delhombre/gift-idea) | [Website](https://ai-gift-idea.vercel.app/)
-- [Obscury - Music Repo](https://github.com/delhombre/obscury) | [Website](https://obscury.com/)
-- [PHP Binary Converter - Repo](https://github.com/delhombre/binary-converter) | [Package](https://packagist.org/packages/delhombre/binary-converter)
-- [Keeezz - Repo](https://github.com/Keeezz/domain/)
-- [Photographer Portfolio - Repo](https://github.com/delhombre/aly-portfolio) | [Website](https://aly-traore.vercel.app/)
-- [Askodev - Repo](https://github.com/delhombre/askodev) | [Website](https://askodev.vercel.app/)
-- [React Obscury - Repo](https://github.com/delhombre/react-obscury) | [Website](https://react-obscury.vercel.app/)
-- [FizzBuzz TDD Kata](https://github.com/delhombre/fizzbuzz)
-- [Awishka Music - Repo](https://github.com/delhombre/awishka-music-symfony)
+- Refining **DevOps pipelines** with Ansible & Kubernetes  
+- Structuring scalable projects around **Clean Architecture** principles  
+- Experimenting with **AI-powered development tools** (e.g., TypeScript SDKs, OpenAI integrations)  
+- Continuous learning in **cloud orchestration**, **observability**, and **security**
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 French — Professional  
+- 🇬🇧 English — Technical  
+- 🪘 Bambara — Native  
+- 🇹🇬 Ewe — Native
+
+---
+
+> *“Great software is not written, it is crafted.”*  
+> — *A motto I live by every time I open my IDE.*
+
