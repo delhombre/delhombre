@@ -1,106 +1,89 @@
-# 👋 Hi, I'm Bruno Dogbase — [@delhombre](https://github.com/delhombre)
+# Bruno Dogbase
 
-[🌍 Portfolio](https://curriculum-vitae-brunodogbase.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
+## Fullstack Software & DevOps Engineer | Clean Architecture | DDD | Product Delivery
 
----
+Hello! I'm Bruno Dogbase, a software craftsman and DevOps engineer focused on clean architecture, long-term maintainability, and thoughtful user experiences. Based in Liege, Belgium.
 
-## 💡 About Me
+### About Me
 
-Full-Stack Developer & DevOps Engineer driven by **software craftsmanship**, **clean architecture**, and **continuous improvement**.  
-I build robust, maintainable, and scalable web systems — from UI to infrastructure — with a focus on **code quality**, **testing**, and **developer experience**.
+- [LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
+- [Personal Site](https://www.brunodogbase.tech)
+- [Download CV](https://www.brunodogbase.tech/Resume-Bruno-Dogbase.pdf)
 
-Passionate about domain-driven design (DDD), TDD, and automation, I strive to create meaningful digital products that balance **elegance, performance, and reliability**.
+### Professional Experience
 
-🎓 Trained at [Technifutur](https://technifutur.be/formations/?id=INFO-FDE-032&dom=Num%C3%A9rique&public=) in DevOps engineering.  
-💼 Currently working on full-stack and infrastructure projects involving **Docker**, **Traefik**, and **Kubernetes**.
+- Fullstack Software & DevOps Engineer, Freelance (Feb 2026 - Present)
+- Fullstack & DevOps Developer, Dimagin (Oct 2024 - Oct 2025)
+- DevOps Intern, Dimagin (Oct 2024 - Dec 2024)
+- Fullstack Web Developer, Intelis Uemoa (Jul 2021 - Dec 2022)
+- Fullstack Web Developer, Freelance (Jun 2019 - 2022)
 
-![](https://komarev.com/ghpvc/?username=delhombre&label=PROFILE+VIEWS)
+### Skills
 
----
+- Software Craftsmanship: Clean Architecture, DDD, Hexagonal Architecture, TDD
+- Full-Stack Development: TypeScript, JavaScript, C#, PHP, SQL
+- Frontend: React, Next.js, Tailwind CSS, Motion
+- Backend: .NET, Symfony, Node.js, Hono, Express
+- Databases & Search: PostgreSQL, MySQL, MariaDB, Redis, Typesense
+- DevOps & Infra: Docker, Kubernetes, Terraform, Ansible, CI/CD, GitHub Actions, Traefik
+- AI & RAG: OpenAI, Anthropic, Gemini, Qdrant, MCP
+- Languages: French, English, Bambara, Ewe
 
-## 🧠 Core Skills
+### Education
 
-- **Languages:** TypeScript, JavaScript, PHP, C#, HTML, CSS  
-- **Frameworks & Platforms:** React, Next.js, Symfony, ASP.NET Core, API Platform  
-- **Databases:** PostgreSQL, MariaDB, MySQL  
-- **Caching & Search:** Redis, Typesense  
-- **DevOps & Cloud:** Docker, Docker Swarm, Ansible, GitHub Actions, GitLab CI, Jenkins  
-- **Infrastructure:** Traefik, Nginx, Kubernetes (in progress), OpenStack  
-- **Methodologies:** TDD, BDD, Hexagonal Architecture, Clean Architecture, CQRS  
-- **OS Environments:** macOS, Linux (Ubuntu/Debian/Rocky), Windows  
+- Bachelor in Computer Science, ISL - Institut Saint-Laurent (2025 - Present)
+- DevOps Engineering, Technifutur (2023 - 2024)
+- Hexagonal Architecture and TDD in TypeScript, Udemy (2024)
+- Self-taught curriculum in software engineering (2018 - Present)
 
----
+### Recent Projects
 
-## 🧩 Professional Experience
+#### Mnemos.be
 
-### 🧭 **Dimagin** — Full-Stack Developer & DevOps Engineer  
-📍 *Liège, Belgium* 🗓️ *Jan 2025 – Oct 2025 (current)*
+AI-powered learning platform with Clean Architecture, CQRS, and a Turborepo monorepo.
 
-- Engineered and maintained **CI/CD pipelines** with **GitHub Actions** and **Docker Compose** for front-end and back-end services.  
-- Automated **VPS provisioning and deployment** using **Ansible**, including Nginx, Traefik reverse proxy, and SSL configuration.  
-- Designed **multi-environment Docker workflows** for scalable deployment (dev/stage/prod).  
-- Contributed to a **progressive migration from WordPress to a headless CMS (Directus)**.  
-- Developed new full-stack features for client platforms using **Next.js**, **TypeScript**, and **Supabase**.  
-- Participated in architecture discussions around **microservices**, **monitoring**, and **high availability** strategies.
+- [Website](https://www.mnemos.be)
 
-### ⚙️ **Dimagin** — DevOps Intern  
-📍 *Liège, Belgium* 🗓️ *Oct 2024 – Dec 2024*
+### Noctua
 
-- Containerized multiple legacy applications with **Docker** for consistent deployments.  
-- Configured **reverse proxies (Nginx/Traefik)** and optimized routing between services.  
-- Set up **automated deployment pipelines** from GitHub to production VPS servers.  
-- Drafted internal **technical documentation** and **deployment playbooks** for reproducibility.  
-- Assisted in implementing **backup strategies** and **monitoring tools** for client infrastructure.
+A minimalist focus room for calm listening, blending ambient and lofi tracks with a soft, immersive soundscape.
 
-### 💻 **Intelis** — Full Stack Web Developer  
-📍 *Bamako, Mali* 🗓️ *14 months*
+- [Website](https://www.noctua.brunodogbase.tech)
 
-- Led the **end-to-end development** of an auction web platform using Symfony.  
-- Adopted a **hexagonal architecture** for scalability and maintainability.  
-- Integrated **Typesense** for real-time search and **Redis** for caching optimization.  
-- Built interactive UI components with **Custom Elements** and **React**.  
-- Collaborated with cross-functional teams to deliver production-ready releases.
+### Skysculptor
 
-### 🚀 **Intelis** — Software Engineering Intern  
-📍 *Bamako, Mali* 🗓️ *3 months*
+An immersive AI-powered interface that transforms weather data into living visual sculptures.
 
-- Analyzed existing auction system and proposed technical optimizations.  
-- Built prototypes and improved user experience through iterative testing.
+- [Website](https://www.skysculptor.brunodogbase.tech)
 
----
+#### JDE (Stocksugu)
 
-## ⚙️ Selected Projects
+Auction, clearance, and judicial liquidation platform.
 
-| Project | Description | Links |
-|----------|--------------|--------|
-| **JDE (Stocksugu)** | Auction & stock platform for regional market | [Repo](https://github.com/intelis-uemoa/jde) • [Website](https://www.stocksugu.com/) |
-| **AI Gift Ideas** | AI-powered gift recommender built with Next.js + OpenAI | [Repo](https://github.com/delhombre/gift-idea) • [Website](https://ai-gift-idea.vercel.app/) |
-| **Obscury** | Music discovery app — React + TypeScript frontend | [Repo](https://github.com/delhombre/obscury) • [Website](https://obscury.com/) |
-| **PHP Binary Converter** | Composer package for binary ↔ decimal conversion | [Repo](https://github.com/delhombre/binary-converter) • [Packagist](https://packagist.org/packages/delhombre/binary-converter) |
-| **Keeezz** | SaaS experimentation platform | [Repo](https://github.com/Keeezz/domain/) |
-| **Askodev** | Developer community Q&A platform | [Repo](https://github.com/delhombre/askodev) • [Website](https://askodev.vercel.app/) |
-| **FizzBuzz Kata** | TDD exercise showcasing unit testing practices | [Repo](https://github.com/delhombre/fizzbuzz) |
+- [Website](https://www.stocksugu.com/)
 
----
+#### AI Gift Ideas
 
-## 🧭 Current Focus
+AI-powered gift ideas web app.
 
-- Refining **DevOps pipelines** with Ansible & Kubernetes  
-- Structuring scalable projects around **Clean Architecture** principles  
-- Experimenting with **AI-powered development tools** (e.g., TypeScript SDKs, OpenAI integrations)  
-- Continuous learning in **cloud orchestration**, **observability**, and **security**
+- [Website](https://ai-gift-idea.vercel.app/)
+
+#### PHP Binary Converter
+
+PHP package for binary conversions.
+
+- [Repo](https://github.com/delhombre/binary-converter)
+- [Package](https://packagist.org/packages/delhombre/binary-converter)
+
+### Latest Blog Posts
+
+I write about software engineering, distributed systems, and modern web development on my site:
+
+- [Skysculptor: Separating MCP Servers and Stabilizing Deployment](https://www.brunodogbase.tech/journal/skysculptor-separating-mcp-servers-and-stabilizing-deployment)
+- [Deploying a Turborepo Monorepo to K3s with Ansible and GitHub Actions](https://www.brunodogbase.tech/journal/deploying-a-turborepo-monorepo-to-k3s-with-ansible-and-github-actions)
+- [How to Bypass Adblockers with Fingerprint and Cloudflare](https://www.brunodogbase.tech/journal/how-to-bypass-adblockers-with-fingerprint-and-cloudflare)
 
 ---
 
-## 🌍 Languages
-
-- 🇫🇷 French — Professional  
-- 🇬🇧 English — Technical  
-- 🪘 Bambara — Native  
-- 🇹🇬 Ewe — Native
-
----
-
-> *“Great software is not written, it is crafted.”*  
-> — *A motto I live by every time I open my IDE.*
-
+> _“Great software is not written, it is crafted.”_  
+> — _A motto I live by every time I open my IDE._
