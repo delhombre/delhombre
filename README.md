@@ -38,6 +38,12 @@ Hello! I'm Bruno Dogbase, a software craftsman and DevOps engineer focused on cl
 
 ### Recent Projects
 
+### CXA (Codex Account Switcher)
+
+A fast, beautiful CLI to manage multiple OpenAI Codex accounts. Built with Go and Charm libraries.
+
+- [Repo](https://github.com/delhombre/codex-account-switcher)
+
 #### Mnemos.be
 
 AI-powered learning platform with Clean Architecture, CQRS, and a Turborepo monorepo.
