@@ -6,7 +6,8 @@ Hello! I'm Bruno Dogbase, a software craftsman and DevOps engineer focused on cl
 
 ### About Me
 
-- [LinkedIn](https://www.linkedin.com/in/bruno-dogbase/)
+- [LinkedIn](https://www.linkedin.com/in/bruno-dogbase)
+- [Malt](https://fr.malt.be/profile/brunodogbase)
 - [Personal Site](https://www.brunodogbase.tech)
 - [Download CV](https://www.brunodogbase.tech/Resume-Bruno-Dogbase.pdf)
 
@@ -14,14 +15,13 @@ Hello! I'm Bruno Dogbase, a software craftsman and DevOps engineer focused on cl
 
 - Fullstack Software & DevOps Engineer, Freelance (Feb 2026 - Present)
 - Fullstack & DevOps Developer, Dimagin (Oct 2024 - Oct 2025)
-- DevOps Intern, Dimagin (Oct 2024 - Dec 2024)
 - Fullstack Web Developer, Intelis Uemoa (Jul 2021 - Dec 2022)
 - Fullstack Web Developer, Freelance (Jun 2019 - 2022)
 
 ### Skills
 
 - Software Craftsmanship: Clean Architecture, DDD, Hexagonal Architecture, TDD
-- Full-Stack Development: TypeScript, JavaScript, C#, PHP, SQL
+- Full-Stack Development: C#, TypeScript, JavaScript, PHP, SQL
 - Frontend: React, Next.js, Tailwind CSS, Motion
 - Backend: .NET, Symfony, Node.js, Hono, Express
 - Databases & Search: PostgreSQL, MySQL, MariaDB, Redis, Typesense
